@@ -11,3 +11,11 @@ I'm the GitHub Learning Lab bot and I'm here to help guide you in your journey t
 I'll meet you over there, can't wait to get started!
 
 This course is using the :sparkles: open source project [reveal.js](https://github.com/hakimel/reveal.js/). In some cases we’ve made changes to the history so it would behave during class, so head to the original project repo to learn more about the cool people behind this project.
+
+Hata: Uncaught ReferenceError: GO is not defined (engine/70-evren-yazisi.js, paket-3.js:371)
+ReferenceError: GO is not defined
+    at gunlukOyunlarCiz (https://tentifor.com/js/engine/70-evren-yazisi.js (paket-3.js:371:85))
+    at HTMLDocument.<anonymous> (https://tentifor.com/js/engine/70-evren-yazisi.js (paket-3.js:371:2571))
+sürüm: 
+adres: https://tentifor.com/atolye/#/ev/benim/fmuqt7avwcc7mi
+tarayıcı: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/155.0.0.0 Safari/537.36
